@@ -3,7 +3,8 @@ This repository showcases advanced SQL projects focused on analytics and busines
 
 ## About the Dayabase 
 
-![Screenshot 2025-03-11 135635](https://github.com/user-attachments/assets/72210953-4001-45a0-ade1-9f376b47219f)
+![Screenshot 2025-03-11 135635](https://github.com/user-attachments/assets/a180ced8-3ef7-44ca-8d90-2947e24ceca0)
+
 
 
 
