@@ -5,7 +5,7 @@ This repository showcases advanced SQL projects focused on analytics and busines
 
 
 
-![Uploading Screenshot 2025-02-08 124719.png…]()
+"C:\Users\farim\OneDrive\Pictures\Screenshots\Screenshot 2025-02-08 124719.png"
 
 
 
