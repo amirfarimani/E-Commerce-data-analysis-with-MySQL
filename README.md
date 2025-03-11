@@ -3,7 +3,7 @@ This repository showcases advanced SQL projects focused on analytics and busines
 
 ## About the Database 
 
-
+We will be working on an E-commerce database containing six tables about Website Activity , Products , Orders and refunds.
 
 ![Screenshot 2025-02-08 124719](https://github.com/user-attachments/assets/6087aa76-3905-487a-b76f-2d781be103d9)
 
