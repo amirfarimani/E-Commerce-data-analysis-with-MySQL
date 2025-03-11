@@ -1,11 +1,12 @@
 # Commerce-data-analysis-with-MySQL
 This repository showcases advanced SQL projects focused on analytics and business intelligence. It includes complex queries, data transformation, and performance optimization techniques to extract meaningful insights from large datasets.
 
-## About the Dayabase 
+## About the Database 
 
 
 
-"C:\Users\farim\OneDrive\Pictures\Screenshots\Screenshot 2025-02-08 124719.png"
+![Screenshot 2025-02-08 124719](https://github.com/user-attachments/assets/6087aa76-3905-487a-b76f-2d781be103d9)
+
 
 
 
